@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "夏が終わっていきますね",
+  "base_artist": "100回嘔吐",
+  "createdAt": "2025-12-28T02:39:42.155039Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "夏が終わっていきますね",
+      "artist": "100回嘔吐",
+      "has_synced": false,
+      "path": "select/pl_01_夏が終わっていきますね_100回嘔吐.txt"
+    }
+  ]
+}
